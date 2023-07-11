@@ -1,9 +1,8 @@
 import React from 'react';
 import './style.css';
 
-const toDoList = ['University', 'Microvese', 'English'];
-
 const Todo = () => {
+  const toDoList = ['University', 'Microvese', 'English'];
   return (
     <div className="container">
       <h1>React Todo List</h1>
