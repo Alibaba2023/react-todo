@@ -2,7 +2,7 @@ import React from 'react';
 import './style.css';
 
 const Todo = () => {
-  const toDoList = ['University', 'Microvese', 'English'];
+  const toDoList = ['Task 1', 'Task 2', 'Task 3', 'Task 4', 'Task 5'];
   return (
     <div className="container">
       <h1>React Todo List</h1>

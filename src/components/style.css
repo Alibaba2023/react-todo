@@ -7,7 +7,7 @@
 }
 
 .container {
-  margin: 6rem auto;
+  margin: 3rem auto;
   width: 30rem;
   padding: 2rem 4rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
@@ -41,9 +41,9 @@ input {
   justify-content: space-between;
   padding: 8px 16px;
   margin-bottom: 1rem;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   background-color: lightcoral;
-  border-radius: 1rem;
+  border-radius: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   font-family: Arial, sans-serif;
 }
@@ -51,7 +51,7 @@ input {
 button {
   padding: 4px 8px;
   border: none;
-  border-radius: 1rem;
+  border-radius: 5px;
   background-color: red;
   width: 5rem;
   font-size: 1rem;
